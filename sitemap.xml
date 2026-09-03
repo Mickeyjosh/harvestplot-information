@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://mickeyjosh.github.io/harvestplot-information/</loc>
-  </url>
+  <url><loc>https://mickeyjosh.github.io/harvestplot-information/</loc></url>
+  <url><loc>https://mickeyjosh.github.io/harvestplot-information/acceptable-use-policy.html</loc></url>
+  <url><loc>https://mickeyjosh.github.io/harvestplot-information/shipping-delivery-policy.html</loc></url>
+  <url><loc>https://mickeyjosh.github.io/harvestplot-information/returns-refunds-cancellation-policy.html</loc></url>
 </urlset>
